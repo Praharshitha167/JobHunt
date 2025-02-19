@@ -1,2 +1,3 @@
 # JobHunt
-JobPortal-YT is a MERN stack job portal where job seekers can browse and apply for jobs, while employers can post and manage listings. It features authentication, user roles, and an intuitive UI. Deployment using Kubernetes and AWS is in progress for scalability.
+
+JobPortal-YT is a **MERN stack** job portal designed for seamless job searching and recruitment. It enables **job seekers** to explore, apply, and track job applications, while **employers** can post, manage, and filter job listings. The platform features **JWT authentication, role-based access control, real-time job updates, and resume uploads**. Built using **MongoDB, Express.js, React, and Node.js**, it ensures efficient performance and scalability. The project integrates **Redux for state management, Cloudinary for image uploads, and Nodemailer for email notifications**. Deployment is planned using **Docker, Kubernetes, and AWS** for scalability and reliability.
